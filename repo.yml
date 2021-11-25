@@ -1,0 +1,16 @@
+- codepen:
+    name: "Codepen",
+    url: "https://codepen.io/",
+    description: "An online community for sharing their front-end web development projects.",
+    category: "programming",
+    price: "Freemium",
+    tags:
+      - featured
+- islewood:
+    name: "Islewood",
+    url: "https://play.isleward.com",
+    description: "A open source, roguelike MMO.",
+    category: "games"
+    price: "Free"
+    tags:
+      - featured
