@@ -2,7 +2,7 @@ codepen:
     name: "Codepen"
     url: "https://codepen.io/"
     description: "An online community for sharing their front-end web development projects."
-    category: "programming"
+    category: "development"
     price: "Freemium"
     tags:
       - featured
