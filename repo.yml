@@ -1,10 +1,21 @@
 codepen:
-    name: "Codepen"
-    url: "https://codepen.io/"
-    homepage: "https://codepen.io/"
-    description: "An online community for sharing their front-end web development projects."
-    category:
-      - Development
-    tags:
-      - Featured
-      - Free
+  name: "Codepen"
+  url: "https://codepen.io/"
+  homepage: "https://codepen.io/"
+  description: "An online community for sharing their front-end web development projects."
+  categories:
+    - Development
+  tags:
+    - Featured
+    - Free
+openscrobbler:
+  name: "Open Scrobbler"
+  url: "https://openscrobbler.com/"
+  homepage: "https://openscrobbler.com/"
+  description: "A tool for manually scrobbling songs to Last.FM."
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
+    - OpenSource
