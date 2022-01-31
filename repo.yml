@@ -19,3 +19,39 @@ openscrobbler:
   tags:
     - Free
     - OpenSource
+twitter:
+  name: "Twitter"
+  url: "https://twitter.com/"
+  homepage: "https://twitter.com/"
+  description: "Social media platform"
+  categories:
+    - Network
+  tags:
+    - Free
+replit:
+  name: "Replit"
+  url: "https://replit.com/"
+  homepage: "https://replit.com/"
+  description: "Online development platform"
+  categories:
+    - Development
+  tags:
+    - Freemium
+instagram:
+  name: "Instagram"
+  url: "https://instagram.com/"
+  homepage: "https://instagram.com/"
+  description: "Social media platform"
+  categories:
+    - Network
+  tags:
+    - Free
+gmailnator:
+  name: "Gmailnator"
+  url: "https://gmailnator.com/"
+  homepage: "https://gmailnator.com/"
+  description: "Create temporary email addresses"
+  categories:
+    - Utility
+  tags:
+    - Freemium
