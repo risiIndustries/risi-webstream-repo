@@ -54,4 +54,156 @@ gmailnator:
   categories:
     - Utility
   tags:
+    - Freemiumcodepen:
+  name: "Codepen"
+  url: "https://codepen.io/"
+  homepage: "https://codepen.io/"
+  description: "An online community for sharing their front-end web development projects."
+  categories:
+    - Development
+  tags:
+    - Featured
+    - Free
+openscrobbler:
+  name: "Open Scrobbler"
+  url: "https://openscrobbler.com/"
+  homepage: "https://openscrobbler.com/"
+  description: "A tool for manually scrobbling songs to Last.FM."
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
+    - OpenSource
+twitter:
+  name: "Twitter"
+  url: "https://twitter.com/"
+  homepage: "https://twitter.com/"
+  description: "Social media platform"
+  categories:
+    - Network
+  tags:
+    - Free
+replit:
+  name: "Replit"
+  url: "https://replit.com/"
+  homepage: "https://replit.com/"
+  description: "Online development platform"
+  categories:
+    - Development
+  tags:
     - Freemium
+instagram:
+  name: "Instagram"
+  url: "https://instagram.com/"
+  homepage: "https://instagram.com/"
+  description: "Social media platform"
+  categories:
+    - Network
+  tags:
+    - Free
+gmailnator:
+  name: "Gmailnator"
+  url: "https://gmailnator.com/"
+  homepage: "https://gmailnator.com/"
+  description: "Create temporary email addresses"
+  categories:
+    - Utility
+  tags:
+    - Freemium
+wormhole:
+  name: "Wormhole"
+  url: "https://wormhole.app/"
+  homepage: "https://wormhole.app/"
+  description: "Send files with end-to-end encryption"
+  categories:
+    - Utility
+  tags:
+    - Free
+wormhole:
+  name: "Wormhole"
+  url: "https://wormhole.app/"
+  homepage: "https://wormhole.app/"
+  description: "Send files with end-to-end encryption"
+  categories:
+    - Utility
+  tags:
+    - Free
+minecraft classic:
+  name: "Minecraft Classic"
+  url: "https://classic.minecraft.net/"
+  homepage: "https://classic.minecraft.net/"
+  description: "A classic version of minecraft"
+  categories:
+    - Game
+  tags:
+    - Free
+farmhand:
+  name: "Farmhand"
+  url: "https://jeremyckahn.github.io/farmhand/"
+  homepage: "https://jeremyckahn.github.io/farmhand/"
+  description: "Farming game"
+  categories:
+    - Game
+  tags:
+    - Free
+    - Open Source
+stackedit:
+  name: "StackEdit"
+  url: "https://stackedit.io/"
+  homepage: "https://stackedit.io/app"
+  description: "Markdown editor"
+  categories:
+    - Development
+  tags:
+    - Free
+    - Open Source
+pixelcraft:
+  name: "PixelCraft"
+  url: "https://pixelcraft.web.app/"
+  homepage: "https://pixelcraft.web.app/"
+  description: "Pixel art editor"
+  categories:
+    - Graphics
+  tags:
+    - Free
+    - Open Source
+netflix:
+  name: "Netflix"
+  url: "https://netflix.com/"
+  homepage: "https://netflix.com/browse"
+  description: "Movie and tv show streaming service"
+  categories:
+    - AudioVideo
+    - Video
+  tags:
+    - Subscription
+hulu:
+  name: "Hulu"
+  url: "https://hulu.com/"
+  homepage: "https://www.hulu.com/profiles"
+  description: "Movie and tv show streaming service"
+  categories:
+    - AudioVideo
+    - Video
+  tags:
+    - Subscription
+paint:
+  name: "Paint"
+  url: "https://jspaint.app/"
+  homepage: "https://jspaint.app/"
+  description: "Recreation of MS Paint"
+  categories:
+    - Graphics
+  tags:
+    - Free
+nute:
+  name: "Nute"
+  url: "https://nute.app/"
+  homepage: "https://nute.app/"
+  description: "Note taking app"
+  categories:
+    - Office
+    - Utility
+  tags:
+    - Free
