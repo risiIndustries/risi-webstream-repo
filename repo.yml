@@ -1,18 +1,150 @@
+apple-calendar:
+  name: Apple Calendar
+  url: https://www.icloud.com/calendar/
+  homepage: "https://www.icloud.com/calendar/"
+  description: Manage your iCloud calendar.
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Apple
+apple-contacts:
+  name: Apple Contacts
+  url: "https://www.icloud.com/contacts/"
+  homepage: "https://www.icloud.com/contacts/"
+  description: Manage your iCloud contacts.
+  categories:
+    - Utility
+  tags:
+    - Freemium
+    - Apple
+apple-keynote:
+  name: Apple Keynote
+  url: "https://www.icloud.com/keynotes/"
+  homepage: "https://www.icloud.com/keynotes/"
+  description: Apple's presentation program synced with iCloud..
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Apple
+apple-music:
+  name: Apple Music
+  url: "https://music.apple.com"
+  homepage: "https://music.apple.com"
+  description: Apple's music streaming service
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Subscription
+    - DRM
+    - Apple
+apple-notes:
+  name: Apple Notes
+  url: "https://www.icloud.com/notes/"
+  homepage: "https://www.icloud.com/notes/"
+  description: Apple's note service synced with iCloud.
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Apple
+apple-numbers:
+  name: Apple Numbers
+  url: "https://www.icloud.com/numbers/"
+  homepage: "https://www.icloud.com/numbers/"
+  description: "Apple's spreadsheet program synced with iCloud."
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Apple
+apple-pages:
+  name: Apple Pages
+  url: "https://www.icloud.com/pages/"
+  homepage: "https://www.icloud.com/pages/"
+  description: "Apple's word processor synced with iCloud."
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Apple
+apple-photos:
+  name: Apple Photos
+  url: "https://www.icloud.com/photos/"
+  homepage: "https://www.icloud.com/photos/"
+  description: "View your photos synced to iCloud."
+  categories:
+    - Graphics
+  tags:
+    - Freemium
+    - Apple
+apple-reminders:
+  name: Apple Photos
+  url: "https://www.icloud.com/reminders/"
+  homepage: "https://www.icloud.com/reminders/"
+  description: "Set reminders to be notified on your iPhone or Mac."
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Apple
+apple-find-my-friends:
+  name: Find My Friends
+  url: "https://www.icloud.com/fmf/"
+  homepage: "https://www.icloud.com/fmf/"
+  description: "Find the location of your friends and family with their permission."
+  categories:
+    - Utility
+  tags:
+    - Free
+    - Apple
+apple-find-my-iphone:
+  name: Find My iPhone
+  url: "https://www.icloud.com/find/"
+  homepage: "https://www.icloud.com/find/"
+  description: "Locate your lost apple device."
+  categories:
+    - Utility
+  tags:
+    - Free
+    - Apple
+bingmaps:
+  name: bingmaps,
+  url: "https://www.bing.com/maps"
+  homepage: "https://www.bing.com/maps"
+  description: "Microsoft's mapping service."
+  categories:
+    - Utility
+  price:
+    - Free
+    - Microsoft
+bingtranslator:
+  name: Bing Translate
+  url: "https://www.bing.com/translator"
+  homepage: "https://www.bing.com/translator"
+  description: A free translator by Microsoft
+  categories:
+    - Utility
+  price:
+    - Free
+    - Microsoft
 codepen:
-  name: "Codepen"
-  url: "https://codepen.io/"
-  homepage: "https://codepen.io/"
-  description: "An online community for sharing their front-end web development projects."
+  name: Codepen
+  url: 'https://codepen.io/'
+  homepage: 'https://codepen.io/'
+  description: An online community for sharing their front-end web development projects.
   categories:
     - Development
   tags:
     - Featured
     - Free
 openscrobbler:
-  name: "Open Scrobbler"
-  url: "https://openscrobbler.com/"
-  homepage: "https://openscrobbler.com/"
-  description: "A tool for manually scrobbling songs to Last.FM."
+  name: Open Scrobbler
+  url: 'https://openscrobbler.com/'
+  homepage: 'https://openscrobbler.com/'
+  description: A tool for manually scrobbling songs to Last.FM.
   categories:
     - Audio
     - AudioVideo
@@ -20,190 +152,284 @@ openscrobbler:
     - Free
     - OpenSource
 twitter:
-  name: "Twitter"
-  url: "https://twitter.com/"
-  homepage: "https://twitter.com/"
-  description: "Social media platform"
+  name: Twitter
+  url: 'https://twitter.com/'
+  homepage: 'https://twitter.com/'
+  description: Social media platform
   categories:
     - Network
   tags:
     - Free
 replit:
-  name: "Replit"
-  url: "https://replit.com/"
-  homepage: "https://replit.com/"
-  description: "Online development platform"
+  name: Replit
+  url: 'https://replit.com/'
+  homepage: 'https://replit.com/'
+  description: Online development platform
   categories:
     - Development
   tags:
     - Freemium
 instagram:
-  name: "Instagram"
-  url: "https://instagram.com/"
-  homepage: "https://instagram.com/"
-  description: "Social media platform"
+  name: Instagram
+  url: 'https://instagram.com/'
+  homepage: 'https://instagram.com/'
+  description: Social media platform
   categories:
     - Network
   tags:
     - Free
 gmailnator:
-  name: "Gmailnator"
-  url: "https://gmailnator.com/"
-  homepage: "https://gmailnator.com/"
-  description: "Create temporary email addresses"
-  categories:
-    - Utility
-  tags:
-    - Freemiumcodepen:
-  name: "Codepen"
-  url: "https://codepen.io/"
-  homepage: "https://codepen.io/"
-  description: "An online community for sharing their front-end web development projects."
-  categories:
-    - Development
-  tags:
-    - Featured
-    - Free
-openscrobbler:
-  name: "Open Scrobbler"
-  url: "https://openscrobbler.com/"
-  homepage: "https://openscrobbler.com/"
-  description: "A tool for manually scrobbling songs to Last.FM."
-  categories:
-    - Audio
-    - AudioVideo
-  tags:
-    - Free
-    - OpenSource
-twitter:
-  name: "Twitter"
-  url: "https://twitter.com/"
-  homepage: "https://twitter.com/"
-  description: "Social media platform"
-  categories:
-    - Network
-  tags:
-    - Free
-replit:
-  name: "Replit"
-  url: "https://replit.com/"
-  homepage: "https://replit.com/"
-  description: "Online development platform"
-  categories:
-    - Development
-  tags:
-    - Freemium
-instagram:
-  name: "Instagram"
-  url: "https://instagram.com/"
-  homepage: "https://instagram.com/"
-  description: "Social media platform"
-  categories:
-    - Network
-  tags:
-    - Free
-gmailnator:
-  name: "Gmailnator"
-  url: "https://gmailnator.com/"
-  homepage: "https://gmailnator.com/"
-  description: "Create temporary email addresses"
+  name: Gmailnator
+  url: 'https://gmailnator.com/'
+  homepage: 'https://gmailnator.com/'
+  description: Create temporary email addresses
   categories:
     - Utility
   tags:
     - Freemium
 wormhole:
-  name: "Wormhole"
-  url: "https://wormhole.app/"
-  homepage: "https://wormhole.app/"
-  description: "Send files with end-to-end encryption"
+  name: Wormhole
+  url: 'https://wormhole.app/'
+  homepage: 'https://wormhole.app/'
+  description: Send files with end-to-end encryption
   categories:
     - Utility
   tags:
     - Free
-wormhole:
-  name: "Wormhole"
-  url: "https://wormhole.app/"
-  homepage: "https://wormhole.app/"
-  description: "Send files with end-to-end encryption"
-  categories:
-    - Utility
-  tags:
-    - Free
-minecraft classic:
-  name: "Minecraft Classic"
-  url: "https://classic.minecraft.net/"
-  homepage: "https://classic.minecraft.net/"
-  description: "A classic version of minecraft"
+minecraft-classic:
+  name: Minecraft Classic
+  url: 'https://classic.minecraft.net/'
+  homepage: 'https://classic.minecraft.net/'
+  description: A classic version of minecraft
   categories:
     - Game
   tags:
     - Free
 farmhand:
-  name: "Farmhand"
-  url: "https://jeremyckahn.github.io/farmhand/"
-  homepage: "https://jeremyckahn.github.io/farmhand/"
-  description: "Farming game"
+  name: Farmhand
+  url: 'https://jeremyckahn.github.io/farmhand/'
+  homepage: 'https://jeremyckahn.github.io/farmhand/'
+  description: Farming game
   categories:
     - Game
   tags:
     - Free
-    - Open Source
+    - OpenSource
 stackedit:
-  name: "StackEdit"
-  url: "https://stackedit.io/"
-  homepage: "https://stackedit.io/app"
-  description: "Markdown editor"
+  name: StackEdit
+  url: 'https://stackedit.io/'
+  homepage: 'https://stackedit.io/app'
+  description: Markdown editor
   categories:
     - Development
   tags:
     - Free
-    - Open Source
+    - OpenSource
 pixelcraft:
-  name: "PixelCraft"
-  url: "https://pixelcraft.web.app/"
-  homepage: "https://pixelcraft.web.app/"
-  description: "Pixel art editor"
+  name: PixelCraft
+  url: 'https://pixelcraft.web.app/'
+  homepage: 'https://pixelcraft.web.app/'
+  description: Pixel art editor
   categories:
     - Graphics
   tags:
     - Free
-    - Open Source
+    - OpenSource
 netflix:
-  name: "Netflix"
-  url: "https://netflix.com/"
-  homepage: "https://netflix.com/browse"
-  description: "Movie and tv show streaming service"
+  name: Netflix
+  url: 'https://netflix.com/'
+  homepage: 'https://netflix.com/browse'
+  description: Movie and tv show streaming service
   categories:
     - AudioVideo
     - Video
   tags:
     - Subscription
+    - DRM
 hulu:
-  name: "Hulu"
-  url: "https://hulu.com/"
-  homepage: "https://www.hulu.com/profiles"
-  description: "Movie and tv show streaming service"
+  name: Hulu
+  url: 'https://hulu.com/'
+  homepage: 'https://www.hulu.com/profiles'
+  description: Movie and tv show streaming service
   categories:
     - AudioVideo
     - Video
   tags:
     - Subscription
+    - DRM
 paint:
-  name: "Paint"
-  url: "https://jspaint.app/"
-  homepage: "https://jspaint.app/"
-  description: "Recreation of MS Paint"
+  name: Paint
+  url: 'https://jspaint.app/'
+  homepage: 'https://jspaint.app/'
+  description: Recreation of MS Paint
   categories:
     - Graphics
   tags:
     - Free
 nute:
-  name: "Nute"
-  url: "https://nute.app/"
-  homepage: "https://nute.app/"
-  description: "Note taking app"
+  name: Nute
+  url: 'https://nute.app/'
+  homepage: 'https://nute.app/'
+  description: Note taking app
   categories:
     - Office
     - Utility
   tags:
     - Free
+youtube-music:
+  name: YouTube Music
+  url: "https://music.youtube.com/"
+  homepage: "https://music.youtube.com/"
+  description: Stream songs and music videos.
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Freemium
+soundcloud:
+  name: Soundcloud
+  url: "https://soundcloud.com"
+  homepage: "https://soundcloud.com"
+  description: Upload, stream, and share music.
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Freemium
+primevideo:
+  name: Amazon Prime Video
+  url: https://www.amazon.com/gp/video/storefront
+  homepage: https://www.amazon.com/gp/video/storefront
+  description: Watch unlimited Movies, TV Shows, Documentries, etc.
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Subscription
+    - DRM
+amplol:
+  name: Amp.lol
+  url: https://amp.lol
+  homepage: https://amp.lol
+  description: "Just radio. No bloat."
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
+bandcamp:
+  name: Bandcamp
+  url: https://bandcamp.com
+  homepage: https://bandcamp.com
+  description: "Discover new music, and directory support musicians."
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Freemium
+spotify:
+  name: Spotify Web
+  url: https://open.spotify.com/
+  homepage: https://spotify.com
+  description: "A music streaming service."
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Freemium
+chromemusiclab:
+  name: Chrome Music Lab
+  url: "https://musiclab.chromeexperiments.com"
+  homepage: "https://musiclab.chromeexperiments.com"
+  description: "Musical Experiments from Google"
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
+    - Google
+deezer:
+  name: Deezer
+  description: "Stream music, podcasts, radio, and more."
+  url: "https://deezer.com"
+  homepage: "https://deezer.com"
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
+    - Google
+musish:
+  name: Musish
+  description: "A feature rich unoffical Apple Music player (requires Apple Music subscription)"
+  url: "https://musi.sh"
+  homepage: "https://musi.sh"
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
+pandora:
+  name: Pandora
+  description: A radio streaming service
+  url: https://www.pandora.com
+  homepage: https://www.pandora.com
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Freemium
+tidal:
+  name: Tidal
+  description: High quality music streaming service
+  url: https://listen.tidal.com
+  homepage: https://tidal.com
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Subscription
+youtubelive:
+  name: YouTube Live Dashboard
+  description: Mange your YouTube livestreams.
+  url: "https://www.youtube.com/livestreaming"
+  homepage: https://support.google.com/youtube/answer/2474026?hl=en
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Free
+    - Google
+youtube-studio:
+  name: YouTube Studio
+  description: Mange your YouTube channel.
+  url: "https://studio.youtube.com"
+  homepage: "https://support.google.com/youtube/answer/7548152?hl=en"
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Free
+    - Google
+youtube-tv:
+  name: YouTube TV
+  description: Stream your favorite TV channels and shows.
+  url: "https://tv.youtube.com/"
+  homepage: "https://tv.youtube.com/"
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Free
+    - Google
+youtube-kids:
+  name: YouTube Kids
+  description: A online video platform for Kids.
+  url: "https://www.youtubekids.com/"
+  homepage: "https://www.youtube.com/kids/"
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Free
+    - Google 
