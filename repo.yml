@@ -120,6 +120,8 @@ bingmaps:
   price:
     - Free
     - Microsoft
+  tags:
+    - Free
 bingtranslator:
   name: Bing Translate
   url: "https://www.bing.com/translator"
@@ -130,6 +132,8 @@ bingtranslator:
   price:
     - Free
     - Microsoft
+  tags:
+    - Free
 codepen:
   name: Codepen
   url: 'https://codepen.io/'
