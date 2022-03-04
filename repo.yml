@@ -239,7 +239,7 @@ netflix:
   name: Netflix
   url: 'https://netflix.com/'
   homepage: 'https://netflix.com/browse'
-  description: Movie and tv show streaming service
+  description: Movie and TV show streaming service
   categories:
     - AudioVideo
     - Video
@@ -257,8 +257,8 @@ hulu:
   tags:
     - Subscription
     - DRM
-paint:
-  name: Paint
+jspaint:
+  name: JS Paint
   url: 'https://jspaint.app/'
   homepage: 'https://jspaint.app/'
   description: Recreation of MS Paint
@@ -266,6 +266,7 @@ paint:
     - Graphics
   tags:
     - Free
+    - OpenSource
 nute:
   name: Nute
   url: 'https://nute.app/'
@@ -432,4 +433,34 @@ youtube-kids:
     - AudioVideo
   tags:
     - Free
-    - Google 
+    - Google
+hbo-max:
+  name: HBO Max
+  description: Stream movies and TV shows from HBO.
+  url: "https://www.hbomax.com/"
+  homepage: "https://www.hbomax.com/"
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Free
+disney-plus:
+  name: Disney Plus
+  description: Stream movies and TV shows from Disney.
+  url: "https://www.disneyplus.com/"
+  homepage: "https://www.disneyplus.com/"
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Free
+peacock:
+  name: Peacock
+  description: Stream movies and TV shows.
+  url: "https://www.peacocktv.com/"
+  homepage: "https://www.peacocktv.com/"
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Free
