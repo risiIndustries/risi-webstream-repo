@@ -1,3 +1,13 @@
+amplol:
+  name: Amp.lol
+  url: https://amp.lol
+  homepage: https://amp.lol
+  description: "Just radio. No bloat."
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
 apple-calendar:
   name: Apple Calendar
   url: https://www.icloud.com/calendar/
@@ -17,6 +27,26 @@ apple-contacts:
     - Utility
   tags:
     - Freemium
+    - Apple
+apple-find-my-friends:
+  name: Find My Friends
+  url: "https://www.icloud.com/fmf/"
+  homepage: "https://www.icloud.com/fmf/"
+  description: "Find the location of your friends and family with their permission."
+  categories:
+    - Utility
+  tags:
+    - Free
+    - Apple
+apple-find-my-iphone:
+  name: Find My iPhone
+  url: "https://www.icloud.com/find/"
+  homepage: "https://www.icloud.com/find/"
+  description: "Locate your lost apple device."
+  categories:
+    - Utility
+  tags:
+    - Free
     - Apple
 apple-keynote:
   name: Apple Keynote
@@ -90,26 +120,16 @@ apple-reminders:
   tags:
     - Freemium
     - Apple
-apple-find-my-friends:
-  name: Find My Friends
-  url: "https://www.icloud.com/fmf/"
-  homepage: "https://www.icloud.com/fmf/"
-  description: "Find the location of your friends and family with their permission."
+bandcamp:
+  name: Bandcamp
+  url: https://bandcamp.com
+  homepage: https://bandcamp.com
+  description: "Discover new music, and directory support musicians."
   categories:
-    - Utility
+    - Audio
+    - AudioVideo
   tags:
-    - Free
-    - Apple
-apple-find-my-iphone:
-  name: Find My iPhone
-  url: "https://www.icloud.com/find/"
-  homepage: "https://www.icloud.com/find/"
-  description: "Locate your lost apple device."
-  categories:
-    - Utility
-  tags:
-    - Free
-    - Apple
+    - Freemium
 bingmaps:
   name: bingmaps,
   url: "https://www.bing.com/maps"
@@ -134,6 +154,17 @@ bingtranslator:
     - Microsoft
   tags:
     - Free
+chromemusiclab:
+  name: Chrome Music Lab
+  url: "https://musiclab.chromeexperiments.com"
+  homepage: "https://musiclab.chromeexperiments.com"
+  description: "Musical Experiments from Google"
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
+    - Google
 codepen:
   name: Codepen
   url: 'https://codepen.io/'
@@ -144,69 +175,25 @@ codepen:
   tags:
     - Featured
     - Free
-openscrobbler:
-  name: Open Scrobbler
-  url: 'https://openscrobbler.com/'
-  homepage: 'https://openscrobbler.com/'
-  description: A tool for manually scrobbling songs to Last.FM.
+deezer:
+  name: Deezer
+  description: "Stream music, podcasts, radio, and more."
+  url: "https://deezer.com"
+  homepage: "https://deezer.com"
   categories:
     - Audio
     - AudioVideo
   tags:
     - Free
-    - OpenSource
-twitter:
-  name: Twitter
-  url: 'https://twitter.com/'
-  homepage: 'https://twitter.com/'
-  description: Social media platform
+    - Google
+disney-plus:
+  name: Disney Plus
+  description: Stream movies and TV shows from Disney.
+  url: "https://www.disneyplus.com/"
+  homepage: "https://www.disneyplus.com/"
   categories:
-    - Network
-  tags:
-    - Free
-replit:
-  name: Replit
-  url: 'https://replit.com/'
-  homepage: 'https://replit.com/'
-  description: Online development platform
-  categories:
-    - Development
-  tags:
-    - Freemium
-instagram:
-  name: Instagram
-  url: 'https://instagram.com/'
-  homepage: 'https://instagram.com/'
-  description: Social media platform
-  categories:
-    - Network
-  tags:
-    - Free
-gmailnator:
-  name: Gmailnator
-  url: 'https://gmailnator.com/'
-  homepage: 'https://gmailnator.com/'
-  description: Create temporary email addresses
-  categories:
-    - Utility
-  tags:
-    - Freemium
-wormhole:
-  name: Wormhole
-  url: 'https://wormhole.app/'
-  homepage: 'https://wormhole.app/'
-  description: Send files with end-to-end encryption
-  categories:
-    - Utility
-  tags:
-    - Free
-minecraft-classic:
-  name: Minecraft Classic
-  url: 'https://classic.minecraft.net/'
-  homepage: 'https://classic.minecraft.net/'
-  description: A classic version of minecraft
-  categories:
-    - Game
+    - Video
+    - AudioVideo
   tags:
     - Free
 farmhand:
@@ -219,37 +206,25 @@ farmhand:
   tags:
     - Free
     - OpenSource
-stackedit:
-  name: StackEdit
-  url: 'https://stackedit.io/'
-  homepage: 'https://stackedit.io/app'
-  description: Markdown editor
+gmailnator:
   categories:
-    - Development
+    - Utility
+  description: Create temporary email addresses
+  homepage: https://gmailnator.com/
+  name: Gmailnator
   tags:
-    - Free
-    - OpenSource
-pixelcraft:
-  name: PixelCraft
-  url: 'https://pixelcraft.web.app/'
-  homepage: 'https://pixelcraft.web.app/'
-  description: Pixel art editor
+    - Freemium
+  url: https://gmailnator.com/
+hbo-max:
+  name: HBO Max
+  description: Stream movies and TV shows from HBO.
+  url: "https://www.hbomax.com/"
+  homepage: "https://www.hbomax.com/"
   categories:
-    - Graphics
-  tags:
-    - Free
-    - OpenSource
-netflix:
-  name: Netflix
-  url: 'https://netflix.com/'
-  homepage: 'https://netflix.com/browse'
-  description: Movie and TV show streaming service
-  categories:
-    - AudioVideo
     - Video
+    - AudioVideo
   tags:
-    - Subscription
-    - DRM
+    - Free
 hulu:
   name: Hulu
   url: 'https://hulu.com/'
@@ -261,6 +236,15 @@ hulu:
   tags:
     - Subscription
     - DRM
+instagram:
+  name: Instagram
+  url: 'https://instagram.com/'
+  homepage: 'https://instagram.com/'
+  description: Social media platform
+  categories:
+    - Network
+  tags:
+    - Free
 jspaint:
   name: JS Paint
   url: 'https://jspaint.app/'
@@ -271,6 +255,36 @@ jspaint:
   tags:
     - Free
     - OpenSource
+minecraft-classic:
+  name: Minecraft Classic
+  url: 'https://classic.minecraft.net/'
+  homepage: 'https://classic.minecraft.net/'
+  description: A classic version of minecraft
+  categories:
+    - Game
+  tags:
+    - Free
+musish:
+  name: Musish
+  description: "A feature rich unoffical Apple Music player (requires Apple Music subscription)"
+  url: "https://musi.sh"
+  homepage: "https://musi.sh"
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
+netflix:
+  name: Netflix
+  url: 'https://netflix.com/'
+  homepage: 'https://netflix.com/browse'
+  description: Movie and TV show streaming service
+  categories:
+    - AudioVideo
+    - Video
+  tags:
+    - Subscription
+    - DRM
 nute:
   name: Nute
   url: 'https://nute.app/'
@@ -281,26 +295,47 @@ nute:
     - Utility
   tags:
     - Free
-youtube-music:
-  name: YouTube Music
-  url: "https://music.youtube.com/"
-  homepage: "https://music.youtube.com/"
-  description: Stream songs and music videos.
+openscrobbler:
+  name: Open Scrobbler
+  url: 'https://openscrobbler.com/'
+  homepage: 'https://openscrobbler.com/'
+  description: A tool for manually scrobbling songs to Last.FM.
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Free
+    - OpenSource
+pandora:
+  name: Pandora
+  description: A radio streaming service
+  url: https://www.pandora.com
+  homepage: https://www.pandora.com
   categories:
     - Audio
     - AudioVideo
   tags:
     - Freemium
-soundcloud:
-  name: Soundcloud
-  url: "https://soundcloud.com"
-  homepage: "https://soundcloud.com"
-  description: Upload, stream, and share music.
+peacock:
+  name: Peacock
+  description: Stream movies and TV shows.
+  url: "https://www.peacocktv.com/"
+  homepage: "https://www.peacocktv.com/"
   categories:
-    - Audio
+    - Video
     - AudioVideo
   tags:
-    - Freemium
+    - Free
+pixelcraft:
+  name: PixelCraft
+  url: 'https://pixelcraft.web.app/'
+  homepage: 'https://pixelcraft.web.app/'
+  description: Pixel art editor
+  categories:
+    - Graphics
+  tags:
+    - Free
+    - OpenSource
 primevideo:
   name: Amazon Prime Video
   url: https://www.amazon.com/gp/video/storefront
@@ -312,21 +347,20 @@ primevideo:
   tags:
     - Subscription
     - DRM
-amplol:
-  name: Amp.lol
-  url: https://amp.lol
-  homepage: https://amp.lol
-  description: "Just radio. No bloat."
+replit:
+  name: Replit
+  url: 'https://replit.com/'
+  homepage: 'https://replit.com/'
+  description: Online development platform
   categories:
-    - Audio
-    - AudioVideo
+    - Development
   tags:
-    - Free
-bandcamp:
-  name: Bandcamp
-  url: https://bandcamp.com
-  homepage: https://bandcamp.com
-  description: "Discover new music, and directory support musicians."
+    - Freemium
+soundcloud:
+  name: Soundcloud
+  url: "https://soundcloud.com"
+  homepage: "https://soundcloud.com"
+  description: Upload, stream, and share music.
   categories:
     - Audio
     - AudioVideo
@@ -342,48 +376,16 @@ spotify:
     - AudioVideo
   tags:
     - Freemium
-chromemusiclab:
-  name: Chrome Music Lab
-  url: "https://musiclab.chromeexperiments.com"
-  homepage: "https://musiclab.chromeexperiments.com"
-  description: "Musical Experiments from Google"
+stackedit:
+  name: StackEdit
+  url: 'https://stackedit.io/'
+  homepage: 'https://stackedit.io/app'
+  description: Markdown editor
   categories:
-    - Audio
-    - AudioVideo
+    - Development
   tags:
     - Free
-    - Google
-deezer:
-  name: Deezer
-  description: "Stream music, podcasts, radio, and more."
-  url: "https://deezer.com"
-  homepage: "https://deezer.com"
-  categories:
-    - Audio
-    - AudioVideo
-  tags:
-    - Free
-    - Google
-musish:
-  name: Musish
-  description: "A feature rich unoffical Apple Music player (requires Apple Music subscription)"
-  url: "https://musi.sh"
-  homepage: "https://musi.sh"
-  categories:
-    - Audio
-    - AudioVideo
-  tags:
-    - Free
-pandora:
-  name: Pandora
-  description: A radio streaming service
-  url: https://www.pandora.com
-  homepage: https://www.pandora.com
-  categories:
-    - Audio
-    - AudioVideo
-  tags:
-    - Freemium
+    - OpenSource
 tidal:
   name: Tidal
   description: High quality music streaming service
@@ -394,7 +396,36 @@ tidal:
     - AudioVideo
   tags:
     - Subscription
-youtubelive:
+twitter:
+  name: Twitter
+  url: 'https://twitter.com/'
+  homepage: 'https://twitter.com/'
+  description: Social media platform
+  categories:
+    - Network
+  tags:
+    - Free
+wormhole:
+  name: Wormhole
+  url: 'https://wormhole.app/'
+  homepage: 'https://wormhole.app/'
+  description: Send files with end-to-end encryption
+  categories:
+    - Utility
+  tags:
+    - Free
+youtube-kids:
+  name: YouTube Kids
+  description: A online video platform for Kids.
+  url: "https://www.youtubekids.com/"
+  homepage: "https://www.youtube.com/kids/"
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Free
+    - Google
+youtube-live:
   name: YouTube Live Dashboard
   description: Mange your YouTube livestreams.
   url: "https://www.youtube.com/livestreaming"
@@ -405,6 +436,16 @@ youtubelive:
   tags:
     - Free
     - Google
+youtube-music:
+  name: YouTube Music
+  url: "https://music.youtube.com/"
+  homepage: "https://music.youtube.com/"
+  description: Stream songs and music videos.
+  categories:
+    - Audio
+    - AudioVideo
+  tags:
+    - Freemium
 youtube-studio:
   name: YouTube Studio
   description: Mange your YouTube channel.
@@ -427,44 +468,3 @@ youtube-tv:
   tags:
     - Free
     - Google
-youtube-kids:
-  name: YouTube Kids
-  description: A online video platform for Kids.
-  url: "https://www.youtubekids.com/"
-  homepage: "https://www.youtube.com/kids/"
-  categories:
-    - Video
-    - AudioVideo
-  tags:
-    - Free
-    - Google
-hbo-max:
-  name: HBO Max
-  description: Stream movies and TV shows from HBO.
-  url: "https://www.hbomax.com/"
-  homepage: "https://www.hbomax.com/"
-  categories:
-    - Video
-    - AudioVideo
-  tags:
-    - Free
-disney-plus:
-  name: Disney Plus
-  description: Stream movies and TV shows from Disney.
-  url: "https://www.disneyplus.com/"
-  homepage: "https://www.disneyplus.com/"
-  categories:
-    - Video
-    - AudioVideo
-  tags:
-    - Free
-peacock:
-  name: Peacock
-  description: Stream movies and TV shows.
-  url: "https://www.peacocktv.com/"
-  homepage: "https://www.peacocktv.com/"
-  categories:
-    - Video
-    - AudioVideo
-  tags:
-    - Free
