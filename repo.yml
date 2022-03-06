@@ -284,9 +284,9 @@ farmhand:
 #G
 gmail:
   name: Gmail
-  description: "The world's most popular Email service.",
-  url: "https://mail.google.com",
-  homepage: "https://mail.google.com",
+  description: "The world's most popular Email service."
+  url: "https://mail.google.com"
+  homepage: "https://mail.google.com"
   categories:
     - Office
   tags:
