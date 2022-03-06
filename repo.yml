@@ -1,3 +1,4 @@
+#A
 amplol:
   name: Amp.lol
   url: https://amp.lol
@@ -52,7 +53,7 @@ apple-keynote:
   name: Apple Keynote
   url: "https://www.icloud.com/keynotes/"
   homepage: "https://www.icloud.com/keynotes/"
-  description: Apple's presentation program synced with iCloud..
+  description: Apple's presentation program synced with iCloud.
   categories:
     - Office
   tags:
@@ -120,6 +121,7 @@ apple-reminders:
   tags:
     - Freemium
     - Apple
+#B
 bandcamp:
   name: Bandcamp
   url: https://bandcamp.com
@@ -137,23 +139,57 @@ bingmaps:
   description: "Microsoft's mapping service."
   categories:
     - Utility
-  price:
-    - Free
-    - Microsoft
   tags:
     - Free
+    - Microsoft
 bingtranslator:
-  name: Bing Translate
+  name: Bing Translator
   url: "https://www.bing.com/translator"
   homepage: "https://www.bing.com/translator"
   description: A free translator by Microsoft
   categories:
     - Utility
-  price:
-    - Free
-    - Microsoft
   tags:
     - Free
+    - Microsoft
+bitbucket:
+  name: Bitbucket
+  url: "https://bitbucket.org/dashboard/overview"
+  homepage: "https://bitbucket.org"
+  description: A web based version control repository hosting service.
+  categories:
+    - Development
+  tags:
+    - Freemium
+blogger:
+  name: Blogger
+  url: "https://www.blogger.com/"
+  homepage: "https://www.blogger.com/"
+  description: Create and manage a blog.
+  categories:
+    - Internet
+  tags:
+    - Free
+    - Google
+box:
+  name: Box
+  description: A service for file hosting and collaboration.
+  url: "https://app.box.com"
+  homepage: "https://box.com"
+  categories:
+    - Network
+  tags:
+    - Freemium
+#C
+chromecanvas:
+  name: Chrome Canvas
+  url: https://canvas.apps.chrome/
+  description: A simple drawing program with natural brushes
+  categories:
+    - Graphics
+  tags:
+    - Free
+    - Google
 chromemusiclab:
   name: Chrome Music Lab
   url: "https://musiclab.chromeexperiments.com"
@@ -184,8 +220,18 @@ deezer:
     - Audio
     - AudioVideo
   tags:
-    - Free
-    - Google
+    - Subscription
+    - DRM
+#D
+deepl:
+  name: Deepl Translator
+  description: A translator powered by artificial intelligence and machine learning.
+  url: https://www.deepl.com/translator
+  homepage: https://www.deepl.com/
+  categories:
+    - Utility
+  tags:
+    - Freemium
 disney-plus:
   name: Disney Plus
   description: Stream movies and TV shows from Disney.
@@ -195,26 +241,248 @@ disney-plus:
     - Video
     - AudioVideo
   tags:
+    - Subscription
+discord:
+  name: Discord (Web)
+  description: A free voice and text chat app.
+  url: "https://discord.com/app"
+  homepage: "https://discord.com/"
+  categories:
+    - Internet
+  tags:
+    - Freemium
+drawception:
+  name: Drawception
+  description: Classic telephone, but with drawing.
+  url: https://drawception.com/
+  homepage: https://drawception.com/
+  categories:
+    - Game
+  tags:
     - Free
+#E
+evernote:
+  name: Evernote
+  description: A feature rich platform for note-taking, to-do lists, and much more.
+  url: "https://www.evernote.com/client/web?login=true"
+  homepage: "https://www.evernote.com"
+  categories:
+    - Office
+  tags:
+    - Freemium
+#F
 farmhand:
   name: Farmhand
   url: 'https://jeremyckahn.github.io/farmhand/'
-  homepage: 'https://jeremyckahn.github.io/farmhand/'
-  description: Farming game
+  homepage: 'https://github.com/jeremyckahn/farmhand'
+  description: Farming game.
   categories:
     - Game
   tags:
     - Free
     - OpenSource
-gmailnator:
+#G
+gmail:
+  name: Gmail
+  description: "The world's most popular Email service.",
+  url: "https://mail.google.com",
+  homepage: "https://mail.google.com",
   categories:
-    - Utility
-  description: Create temporary email addresses
-  homepage: https://gmailnator.com/
-  name: Gmailnator
+    - Office
   tags:
     - Freemium
-  url: https://gmailnator.com/
+    - Google
+gmailnator:
+  name: Gmailnator
+  description: Create temporary email addresses.
+  url: "https://gmailnator.com/"
+  homepage: "https://gmailnator.com/"
+  categories:
+    - Utility
+  tags:
+    - Freemium
+# Google
+google-calendar:
+  name: Google Calendar
+  description: Create, view, and edit events for your Google Calendar.
+  url: "https://calendar.google.com"
+  homepage: "https://calendar.google.com"
+  categories:
+    - Office
+  tags:
+    - Free
+    - Google
+google-chat:
+  name: Google Chat
+  description: Google's instant messanger.
+  url: "https://mail.google.com/chat/u/0"
+  homepage: "https://mail.google.com/chat/u/0"
+  categories:
+    - Network
+  tags:
+    - Freemium
+    - Google
+google-colab:
+  name: Google Colab
+  description: A hosted Jupyter notebook service with access to free computing resources.
+  url: "https://colab.research.google.com/"
+  homepage: "https://colab.research.google.com/"
+  categories:
+    - Programming
+  tags:
+    - Freemium
+    - Google
+google-contacts:
+  name: Google Contacts
+  description: Manage your Contacts for your Google account.
+  url: "https://contacts.google.com/"
+  homepage: "https://contacts.google.com/"
+  categories:
+    - Utility
+  tags:
+    - Free
+    - Google
+google-docs:
+  name: Google Docs
+  description: A free word processor that syncs with Google Drive.
+  url: "https://docs.google.com"
+  homepage: "https://docs.google.com"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Google
+google-drive:
+  name: Google Drive
+  description: Google's tool for online file storage and backup/synchronization
+  url: "https://drive.google.com"
+  homepage: "https://www.google.com/drive/"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Google
+google-duo:
+  name: Duo
+  description: Google's video calling service.
+  url: "https://duo.google.com"
+  homepage: "https://duo.google.com"
+  categories:
+    - Network
+  tags:
+    - Freemium
+    - Google
+google-earth:
+  name: Google Drive
+  description: Google's tool for online file storage and backup/synchronization
+  url: "https://earth.google.com"
+  homepage: "https://earth.google.com"
+  categories:
+    - Education
+  tags:
+    - Free
+    - Google
+google-fmd:
+  name: Google Find My Device
+  description: Find your lost Android phone.
+  url: "https://www.google.com/android/find"
+  homepage: "https://www.google.com/android/find"
+  categories:
+    - Utility
+  tags:
+    - Free
+    - Google
+google-fonts:
+  name: Google Fonts
+  description: A free library of more than 1000 fonts.
+  url: "https://fonts.google.com"
+  homepage: "https://fonts.google.com"
+  categories:
+    - System
+  tags:
+    - Free
+    - Google
+google-forms:
+  name: Google Forms
+  description: A free program for making forms and surveys that syncs with Google Drive.
+  url: "https://docs.google.com/forms/u/0/"
+  homepage: "https://docs.google.com/forms/u/0/"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Google
+google-keep:
+  name: Google Keep
+  description: Google's cross platform note-taking service.
+  url: "https://keep.google.com/"
+  homepage: "https://www.google.com/keep/"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Google
+google-maps:
+  name: Google Maps
+  description: Google's popular mapping service.
+  url: "https://www.google.com/maps"
+  homepage: "https://www.google.com/maps"
+  categories:
+    - Utility
+  tags:
+    - Free
+    - Google
+google-photos:
+  name: Google Photos
+  description: View photos synced to your Google Account.
+  url: "https://docs.google.com/presentation/u/0/"
+  homepage: "https://docs.google.com/presentation/u/0/"
+  categories:
+    - Graphics
+  tags:
+    - Freemium
+    - Google
+google-sheets:
+  name: Google Sheets
+  description: A free spreadsheet program that syncs with Google Drive.
+  url: "https://docs.google.com/spreadsheets/u/0"
+  homepage: "https://docs.google.com/spreadsheets/u/0"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Google
+google-sites:
+  name: Google Sites
+  description: Google's tool for making websites.
+  url: "https://sites.google.com"
+  homepage: "https://sites.google.com"
+  categories:
+    - Programming
+  tags:
+    - Freemium
+    - Google
+google-slides:
+  name: Google Slides
+  description: A free presentation program that syncs with Google Drive.
+  url: "https://docs.google.com/presentation/u/0/"
+  homepage: "https://docs.google.com/presentation/u/0/"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Google
+google-translate:
+  name: Google Translate
+  description: A free translator with support for over 100 languages.
+  url: "https://translate.google.com/"
+  homepage: "https://translate.google.com/"
+  categories:
+    - Utility
+  tags:
+    - Freemium
+    - Google
+#H
 hbo-max:
   name: HBO Max
   description: Stream movies and TV shows from HBO.
@@ -225,41 +493,216 @@ hbo-max:
     - AudioVideo
   tags:
     - Free
+    - DRM
 hulu:
   name: Hulu
   url: 'https://hulu.com/'
   homepage: 'https://www.hulu.com/profiles'
-  description: Movie and tv show streaming service
+  description: Movie and tv show streaming service.
   categories:
     - AudioVideo
     - Video
   tags:
     - Subscription
     - DRM
+#I
+icloud-drive:
+  name: iCloud Drive
+  url: "https://www.icloud.com/iclouddrive/"
+  homepage: "https://www.icloud.com/iclouddrive/"
+  description: Cloud storage from Apple.
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Apple
+icloud-mail:
+  name: iCloud Mail
+  url: "https://www.icloud.com/mail"
+  homepage: "https://www.icloud.com/mail"
+  description: Apple's Email service.
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Apple
+inoreader:
+  name: Inoreader
+  url: "https://www.inoreader.com"
+  homepage: "https://www.inoreader.com"
+  description: "A feature rich RSS reader."
+  categories:
+    - Network
+  tags:
+    - Free
 instagram:
   name: Instagram
   url: 'https://instagram.com/'
   homepage: 'https://instagram.com/'
-  description: Social media platform
+  description: Social media platform for sharing pictures.
   categories:
     - Network
+  tags:
+    - Free
+instapaper:
+  name: Instapaper
+  url: "https://www.instapaper.com/u"
+  homepage: "https://www.instapaper.com/u"
+  description: Save pages and articles on the internet to view later.
+  categories:
+    - Network
+  tags:
+    - Freemium
+#J
+jsfiddle:
+  name: JSFiddle
+  url: "https://jsfiddle.net/"
+  homepage: "https://jsfiddle.net/"
+  description: Create and share "fiddles" made with web languages.
+  categories:
+    - Development
+  tags:
+    - Freemium
+jsitor:
+  name: Jsitor
+  url: https://jsitor.com
+  homepage: https://jsitor.com
+  description: A tool for creating web code snippits.
+  categories:
+    - Development
   tags:
     - Free
 jspaint:
   name: JS Paint
   url: 'https://jspaint.app/'
-  homepage: 'https://jspaint.app/'
-  description: Recreation of MS Paint
+  homepage: 'https://github.com/1j01/jspaint'
+  description: Recreation of MS Paint.
   categories:
     - Graphics
   tags:
     - Free
     - OpenSource
+#K
+krunker:
+  name: Krunker
+  url: "https://krunker.io"
+  homepage: "https://krunker.io"
+  description: 3D voxel first person shooter game.
+  categories:
+    - Game
+  tags:
+    - Freemium
+#L
+#M
+method-draw:
+  name: Method Draw
+  url: "https://editor.method.ac"
+  homepage: "https://github.com/methodofaction/Method-Draw"
+  description: A simple and easy to use SVG editor.
+  categories:
+    - Graphics
+  tags:
+    - Free
+    - OpenSource
+# Microsoft
+messenger:
+  name: "Messenger"
+  description: An instant messenger owned by Meta/Facebook.
+  url: "https://www.messenger.com/login.php"
+  homepage: "https://messenger.com"
+  categories:
+    - Network
+  tags:
+    - Free
+microsoft-excel:
+  name: Microsoft Excel Online
+  description: A spreadsheet program made by Microsoft as part of the Office suite.
+  url: "https://www.office.com/launch/excel"
+  homepage: "https://www.office.com/launch/excel"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Microsoft
+microsoft-forms:
+  name: Microsoft Forms Online
+  description: An online survey creator made by Microsoft as part of the Office suite.
+  url: "https://forms.office.com/"
+  homepage: "https://forms.office.com/"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Microsoft
+microsoft-onedrive:
+  name: Microsoft OneDrive Online
+  description: A file storage service made by Microsoft as part of the Office suite.
+  url: "https://onedrive.live.com/"
+  homepage: "https://onedrive.live.com/"
+  categories:
+    - Office
+    - Network
+  tags:
+    - Freemium
+    - Microsoft
+microsoft-onenote:
+  name: Microsoft OneNote Online
+  description: A note taking app by Microsoft.
+  url: "https://onedrive.live.com/"
+  homepage: "https://onedrive.live.com/"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Microsoft
+microsoft-powerpoint:
+  name: Microsoft PowerPoint Online
+  description: A presentation program made by Microsoft as part of the Office suite.
+  url: "https://onedrive.live.com/"
+  homepage: "https://onedrive.live.com/"
+  categories:
+    - Office
+    - Network
+  tags:
+    - Freemium
+    - Microsoft
+microsoft-sway:
+  name: Microsoft Sway Online
+  description: Create visually striking newsletters, presentations, and documentation in minutes.
+  url: "https://onedrive.live.com/"
+  homepage: "https://onedrive.live.com/"
+  categories:
+    - Office
+    - Network
+  tags:
+    - Freemium
+    - Microsoft
+microsoft-todo:
+  name: Microsoft To-Do Online
+  description: A task management tool made by Microsoft.
+  url: "https://to-do.microsoft.com"
+  homepage: "https://to-do.microsoft.com"
+  categories:
+    - Office
+    - Network
+  tags:
+    - Freemium
+    - Microsoft
+microsoft-word:
+  name: Microsoft Word Online
+  description: A word processor made by Microsoft as part of the Office suite.
+  url: "https://www.office.com/launch/word"
+  homepage: "https://www.office.com/launch/word"
+  categories:
+    - Office
+  tags:
+    - Freemium
+    - Microsoft
 minecraft-classic:
   name: Minecraft Classic
   url: 'https://classic.minecraft.net/'
   homepage: 'https://classic.minecraft.net/'
-  description: A classic version of minecraft
+  description: A classic version of minecraft.
   categories:
     - Game
   tags:
@@ -274,6 +717,7 @@ musish:
     - AudioVideo
   tags:
     - Free
+#N
 netflix:
   name: Netflix
   url: 'https://netflix.com/'
@@ -292,17 +736,39 @@ nute:
   description: Note taking app
   categories:
     - Office
-    - Utility
   tags:
     - Free
+#O
+odysee:
+  name: Odysee
+  url: "https://odysee.com"
+  homepage: "https://github.com/OdyseeTeam/odysee-frontend"
+  description: A open source and decentralized platform for content creators.
+  categories:
+    - Video
+    - AudioVideo
+  tags:
+    - Free
+    - OpenSource
 openscrobbler:
   name: Open Scrobbler
   url: 'https://openscrobbler.com/'
-  homepage: 'https://openscrobbler.com/'
+  homepage: 'https://github.com/elamperti/OpenWebScrobbler'
   description: A tool for manually scrobbling songs to Last.FM.
   categories:
     - Audio
     - AudioVideo
+  tags:
+    - Free
+    - OpenSource
+#P
+paintz:
+  name: PaintZ
+  description: A simple drawing program.
+  url: "https://paintz.app"
+  homepage: "https://github.com/ZMYaro/paintz"
+  categories:
+    - Graphics
   tags:
     - Free
     - OpenSource
@@ -325,17 +791,54 @@ peacock:
     - Video
     - AudioVideo
   tags:
-    - Free
+    - Freemium
+    - DRM
 pixelcraft:
   name: PixelCraft
   url: 'https://pixelcraft.web.app/'
-  homepage: 'https://pixelcraft.web.app/'
-  description: Pixel art editor
+  homepage: 'https://github.com/rgab1508/PixelCraft'
+  description: Pixel art editor.
   categories:
     - Graphics
   tags:
     - Free
     - OpenSource
+pixlre:
+  name: Pixlr E
+  description: A fully featured Photoshop alternative.
+  url: "https://pixlr.com/e/"
+  homepage: "https://pixlr.com"
+  categories:
+    - Graphics
+  tags:
+    - Freemium
+pixlrx:
+  name: Pixlr X
+  description: A simple photo editor.
+  url: "https://pixlr.com/x/"
+  homepage: "https://pixlr.com"
+  categories:
+    - Graphics
+  tags:
+    - Freemium
+photopea:
+  name: Photopea
+  description: A free full featured alternative to Photoshop.
+  url: "https://www.photopea.com"
+  homepage: "https://www.photopea.com"
+  categories:
+    - Graphics
+  tags:
+    - Freemium
+polarr:
+  name: Polarr
+  description: "A photo editor."
+  url: "https://photoeditor.polarr.com"
+  homepage: "https://www.polarr.com"
+  categories:
+    - Graphics
+  tags:
+    - Freemium
 primevideo:
   name: Amazon Prime Video
   url: https://www.amazon.com/gp/video/storefront
@@ -347,6 +850,27 @@ primevideo:
   tags:
     - Subscription
     - DRM
+protonmail:
+  name: Protonmail
+  description: A privacy friendly, encrypted email service.
+  url: "https://mail.protonmail.com/inbox"
+  homepage: "https://protonmail.com"
+  category:
+    - Network
+  tags:
+    - Freemium
+#Q
+quickdraw:
+  name: Quick, Draw!
+  description: Can a neural network learn to recognize your doodling?
+  url: "https://quickdraw.withgoogle.com"
+  homepage: "https://quickdraw.withgoogle.com"
+  categories:
+    - Game
+  tags:
+    - Free
+    - Google
+#R
 replit:
   name: Replit
   url: 'https://replit.com/'
@@ -356,6 +880,7 @@ replit:
     - Development
   tags:
     - Freemium
+#S
 soundcloud:
   name: Soundcloud
   url: "https://soundcloud.com"
@@ -379,13 +904,14 @@ spotify:
 stackedit:
   name: StackEdit
   url: 'https://stackedit.io/'
-  homepage: 'https://stackedit.io/app'
+  homepage: 'https://github.com/benweet/stackedit/'
   description: Markdown editor
   categories:
     - Development
   tags:
     - Free
     - OpenSource
+#T
 tidal:
   name: Tidal
   description: High quality music streaming service
@@ -396,6 +922,15 @@ tidal:
     - AudioVideo
   tags:
     - Subscription
+tweetdeck:
+  name: TweetDeck
+  description: A dashboard for managing tweets on Twitter.
+  url: 'https://tweetdeck.twitter.com/'
+  homepage: 'https://tweetdeck.twitter.com/'
+  categories:
+    - Network
+  tags:
+    - Free
 twitter:
   name: Twitter
   url: 'https://twitter.com/'
@@ -405,6 +940,9 @@ twitter:
     - Network
   tags:
     - Free
+#U
+#V
+#W
 wormhole:
   name: Wormhole
   url: 'https://wormhole.app/'
@@ -414,6 +952,8 @@ wormhole:
     - Utility
   tags:
     - Free
+#X
+#Y
 youtube-kids:
   name: YouTube Kids
   description: A online video platform for Kids.
@@ -468,3 +1008,4 @@ youtube-tv:
   tags:
     - Free
     - Google
+#Z
