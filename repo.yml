@@ -133,7 +133,7 @@ bandcamp:
   tags:
     - Freemium
 bingmaps:
-  name: bingmaps,
+  name: bingmaps
   url: "https://www.bing.com/maps"
   homepage: "https://www.bing.com/maps"
   description: "Microsoft's mapping service."
