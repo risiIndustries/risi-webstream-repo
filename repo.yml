@@ -856,7 +856,7 @@ protonmail:
   description: A privacy friendly, encrypted email service.
   url: "https://mail.protonmail.com/inbox"
   homepage: "https://protonmail.com"
-  category:
+  categories:
     - Network
   tags:
     - Freemium
