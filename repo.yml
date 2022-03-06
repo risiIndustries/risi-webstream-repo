@@ -184,6 +184,7 @@ box:
 chromecanvas:
   name: Chrome Canvas
   url: https://canvas.apps.chrome/
+  homepage: https://canvas.apps.chrome/
   description: A simple drawing program with natural brushes
   categories:
     - Graphics
