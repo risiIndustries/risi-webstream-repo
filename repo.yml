@@ -1,8 +1,8 @@
 #A
 amplol:
   name: Amp.lol
-  url: https://amp.lol
-  homepage: https://amp.lol
+  url: "https://amp.lol"
+  homepage: "https://amp.lol"
   description: "Just radio. No bloat."
   categories:
     - Audio
@@ -11,9 +11,9 @@ amplol:
     - Free
 apple-calendar:
   name: Apple Calendar
-  url: https://www.icloud.com/calendar/
+  url: "https://www.icloud.com/calendar/"
   homepage: "https://www.icloud.com/calendar/"
-  description: Manage your iCloud calendar.
+  description: "Manage your iCloud calendar."
   categories:
     - Office
   tags:
@@ -23,7 +23,7 @@ apple-contacts:
   name: Apple Contacts
   url: "https://www.icloud.com/contacts/"
   homepage: "https://www.icloud.com/contacts/"
-  description: Manage your iCloud contacts.
+  description: "Manage your iCloud contacts."
   categories:
     - Utility
   tags:
@@ -53,7 +53,7 @@ apple-keynote:
   name: Apple Keynote
   url: "https://www.icloud.com/keynotes/"
   homepage: "https://www.icloud.com/keynotes/"
-  description: Apple's presentation program synced with iCloud.
+  description: "Apple's presentation program synced with iCloud."
   categories:
     - Office
   tags:
@@ -63,7 +63,7 @@ apple-music:
   name: Apple Music
   url: "https://music.apple.com"
   homepage: "https://music.apple.com"
-  description: Apple's music streaming service
+  description: "Apple's music streaming service"
   categories:
     - Audio
     - AudioVideo
@@ -75,7 +75,7 @@ apple-notes:
   name: Apple Notes
   url: "https://www.icloud.com/notes/"
   homepage: "https://www.icloud.com/notes/"
-  description: Apple's note service synced with iCloud.
+  description: "Apple's note service synced with iCloud."
   categories:
     - Office
   tags:
@@ -124,8 +124,8 @@ apple-reminders:
 #B
 bandcamp:
   name: Bandcamp
-  url: https://bandcamp.com
-  homepage: https://bandcamp.com
+  url: "https://bandcamp.com"
+  homepage: "https://bandcamp.com"
   description: "Discover new music, and directory support musicians."
   categories:
     - Audio
@@ -146,7 +146,7 @@ bingtranslator:
   name: Bing Translator
   url: "https://www.bing.com/translator"
   homepage: "https://www.bing.com/translator"
-  description: A free translator by Microsoft
+  description: "A free translator by Microsoft"
   categories:
     - Utility
   tags:
@@ -156,7 +156,7 @@ bitbucket:
   name: Bitbucket
   url: "https://bitbucket.org/dashboard/overview"
   homepage: "https://bitbucket.org"
-  description: A web based version control repository hosting service.
+  description: "A web based version control repository hosting service."
   categories:
     - Development
   tags:
@@ -165,7 +165,7 @@ blogger:
   name: Blogger
   url: "https://www.blogger.com/"
   homepage: "https://www.blogger.com/"
-  description: Create and manage a blog.
+  description: "Create and manage a blog."
   categories:
     - Internet
   tags:
@@ -173,9 +173,9 @@ blogger:
     - Google
 box:
   name: Box
-  description: A service for file hosting and collaboration.
   url: "https://app.box.com"
   homepage: "https://box.com"
+  description: "A service for file hosting and collaboration."
   categories:
     - Network
   tags:
@@ -183,9 +183,9 @@ box:
 #C
 chromecanvas:
   name: Chrome Canvas
-  url: https://canvas.apps.chrome/
-  homepage: https://canvas.apps.chrome/
-  description: A simple drawing program with natural brushes
+  url: "https://canvas.apps.chrome/"
+  homepage: "https://canvas.apps.chrome/"
+  description: "A simple drawing program with natural brushes"
   categories:
     - Graphics
   tags:
@@ -206,7 +206,7 @@ codepen:
   name: Codepen
   url: 'https://codepen.io/'
   homepage: 'https://codepen.io/'
-  description: An online community for sharing their front-end web development projects.
+  description: "An online community for sharing their front-end web development projects."
   categories:
     - Development
   tags:
@@ -226,16 +226,16 @@ deezer:
 #D
 deepl:
   name: Deepl Translator
-  description: A translator powered by artificial intelligence and machine learning.
-  url: https://www.deepl.com/translator
-  homepage: https://www.deepl.com/
+  description: "A translator powered by artificial intelligence and machine learning."
+  url: "https://www.deepl.com/translator"
+  homepage: "https://www.deepl.com/"
   categories:
     - Utility
   tags:
     - Freemium
 disney-plus:
   name: Disney Plus
-  description: Stream movies and TV shows from Disney.
+  description: "Stream movies and TV shows from Disney."
   url: "https://www.disneyplus.com/"
   homepage: "https://www.disneyplus.com/"
   categories:
@@ -245,7 +245,7 @@ disney-plus:
     - Subscription
 discord:
   name: Discord (Web)
-  description: A free voice and text chat app.
+  description: "A free voice and text chat app."
   url: "https://discord.com/app"
   homepage: "https://discord.com/"
   categories:
@@ -254,9 +254,9 @@ discord:
     - Freemium
 drawception:
   name: Drawception
-  description: Classic telephone, but with drawing.
-  url: https://drawception.com/
-  homepage: https://drawception.com/
+  description: "Classic telephone, but with drawing."
+  url: "https://drawception.com/"
+  homepage: "https://drawception.com/"
   categories:
     - Game
   tags:
@@ -264,7 +264,7 @@ drawception:
 #E
 evernote:
   name: Evernote
-  description: A feature rich platform for note-taking, to-do lists, and much more.
+  description: "A feature rich platform for note-taking, to-do lists, and much more."
   url: "https://www.evernote.com/client/web?login=true"
   homepage: "https://www.evernote.com"
   categories:
@@ -276,7 +276,7 @@ farmhand:
   name: Farmhand
   url: 'https://jeremyckahn.github.io/farmhand/'
   homepage: 'https://github.com/jeremyckahn/farmhand'
-  description: Farming game.
+  description: "Farming game."
   categories:
     - Game
   tags:
@@ -295,7 +295,7 @@ gmail:
     - Google
 gmailnator:
   name: Gmailnator
-  description: Create temporary email addresses.
+  description: "Create temporary email addresses."
   url: "https://gmailnator.com/"
   homepage: "https://gmailnator.com/"
   categories:
@@ -305,7 +305,7 @@ gmailnator:
 # Google
 google-calendar:
   name: Google Calendar
-  description: Create, view, and edit events for your Google Calendar.
+  description: "Create, view, and edit events for your Google Calendar."
   url: "https://calendar.google.com"
   homepage: "https://calendar.google.com"
   categories:
@@ -315,7 +315,7 @@ google-calendar:
     - Google
 google-chat:
   name: Google Chat
-  description: Google's instant messanger.
+  description: "Google's instant messanger."
   url: "https://mail.google.com/chat/u/0"
   homepage: "https://mail.google.com/chat/u/0"
   categories:
@@ -325,7 +325,7 @@ google-chat:
     - Google
 google-colab:
   name: Google Colab
-  description: A hosted Jupyter notebook service with access to free computing resources.
+  description: "A hosted Jupyter notebook service with access to free computing resources."
   url: "https://colab.research.google.com/"
   homepage: "https://colab.research.google.com/"
   categories:
@@ -335,7 +335,7 @@ google-colab:
     - Google
 google-contacts:
   name: Google Contacts
-  description: Manage your Contacts for your Google account.
+  description: "Manage your Contacts for your Google account."
   url: "https://contacts.google.com/"
   homepage: "https://contacts.google.com/"
   categories:
@@ -345,7 +345,7 @@ google-contacts:
     - Google
 google-docs:
   name: Google Docs
-  description: A free word processor that syncs with Google Drive.
+  description: "A free word processor that syncs with Google Drive."
   url: "https://docs.google.com"
   homepage: "https://docs.google.com"
   categories:
@@ -355,7 +355,7 @@ google-docs:
     - Google
 google-drive:
   name: Google Drive
-  description: Google's tool for online file storage and backup/synchronization
+  description: "Google's tool for online file storage and backup/synchronization"
   url: "https://drive.google.com"
   homepage: "https://www.google.com/drive/"
   categories:
@@ -365,7 +365,7 @@ google-drive:
     - Google
 google-duo:
   name: Duo
-  description: Google's video calling service.
+  description: "Google's video calling service."
   url: "https://duo.google.com"
   homepage: "https://duo.google.com"
   categories:
@@ -375,7 +375,7 @@ google-duo:
     - Google
 google-earth:
   name: Google Drive
-  description: Google's tool for online file storage and backup/synchronization
+  description: "Google's tool for online file storage and backup/synchronization"
   url: "https://earth.google.com"
   homepage: "https://earth.google.com"
   categories:
@@ -385,7 +385,7 @@ google-earth:
     - Google
 google-fmd:
   name: Google Find My Device
-  description: Find your lost Android phone.
+  description: "Find your lost Android phone."
   url: "https://www.google.com/android/find"
   homepage: "https://www.google.com/android/find"
   categories:
@@ -395,7 +395,7 @@ google-fmd:
     - Google
 google-fonts:
   name: Google Fonts
-  description: A free library of more than 1000 fonts.
+  description: "A free library of more than 1000 fonts."
   url: "https://fonts.google.com"
   homepage: "https://fonts.google.com"
   categories:
@@ -405,7 +405,7 @@ google-fonts:
     - Google
 google-forms:
   name: Google Forms
-  description: A free program for making forms and surveys that syncs with Google Drive.
+  description: "A free program for making forms and surveys that syncs with Google Drive."
   url: "https://docs.google.com/forms/u/0/"
   homepage: "https://docs.google.com/forms/u/0/"
   categories:
@@ -415,7 +415,7 @@ google-forms:
     - Google
 google-keep:
   name: Google Keep
-  description: Google's cross platform note-taking service.
+  description: "Google's cross platform note-taking service."
   url: "https://keep.google.com/"
   homepage: "https://www.google.com/keep/"
   categories:
@@ -425,7 +425,7 @@ google-keep:
     - Google
 google-maps:
   name: Google Maps
-  description: Google's popular mapping service.
+  description: "Google's popular mapping service."
   url: "https://www.google.com/maps"
   homepage: "https://www.google.com/maps"
   categories:
@@ -435,7 +435,7 @@ google-maps:
     - Google
 google-photos:
   name: Google Photos
-  description: View photos synced to your Google Account.
+  description: "View photos synced to your Google Account."
   url: "https://docs.google.com/presentation/u/0/"
   homepage: "https://docs.google.com/presentation/u/0/"
   categories:
@@ -445,7 +445,7 @@ google-photos:
     - Google
 google-sheets:
   name: Google Sheets
-  description: A free spreadsheet program that syncs with Google Drive.
+  description: "A free spreadsheet program that syncs with Google Drive."
   url: "https://docs.google.com/spreadsheets/u/0"
   homepage: "https://docs.google.com/spreadsheets/u/0"
   categories:
@@ -455,7 +455,7 @@ google-sheets:
     - Google
 google-sites:
   name: Google Sites
-  description: Google's tool for making websites.
+  description: "Google's tool for making websites."
   url: "https://sites.google.com"
   homepage: "https://sites.google.com"
   categories:
@@ -465,7 +465,7 @@ google-sites:
     - Google
 google-slides:
   name: Google Slides
-  description: A free presentation program that syncs with Google Drive.
+  description: "A free presentation program that syncs with Google Drive."
   url: "https://docs.google.com/presentation/u/0/"
   homepage: "https://docs.google.com/presentation/u/0/"
   categories:
@@ -475,7 +475,7 @@ google-slides:
     - Google
 google-translate:
   name: Google Translate
-  description: A free translator with support for over 100 languages.
+  description: "A free translator with support for over 100 languages."
   url: "https://translate.google.com/"
   homepage: "https://translate.google.com/"
   categories:
@@ -486,7 +486,7 @@ google-translate:
 #H
 hbo-max:
   name: HBO Max
-  description: Stream movies and TV shows from HBO.
+  description: "Stream movies and TV shows from HBO."
   url: "https://www.hbomax.com/"
   homepage: "https://www.hbomax.com/"
   categories:
@@ -499,7 +499,7 @@ hulu:
   name: Hulu
   url: 'https://hulu.com/'
   homepage: 'https://www.hulu.com/profiles'
-  description: Movie and tv show streaming service.
+  description: "Movie and tv show streaming service."
   categories:
     - AudioVideo
     - Video
@@ -511,7 +511,7 @@ icloud-drive:
   name: iCloud Drive
   url: "https://www.icloud.com/iclouddrive/"
   homepage: "https://www.icloud.com/iclouddrive/"
-  description: Cloud storage from Apple.
+  description: "Cloud storage from Apple."
   categories:
     - Office
   tags:
@@ -521,7 +521,7 @@ icloud-mail:
   name: iCloud Mail
   url: "https://www.icloud.com/mail"
   homepage: "https://www.icloud.com/mail"
-  description: Apple's Email service.
+  description: "Apple's Email service."
   categories:
     - Office
   tags:
@@ -540,7 +540,7 @@ instagram:
   name: Instagram
   url: 'https://instagram.com/'
   homepage: 'https://instagram.com/'
-  description: Social media platform for sharing pictures.
+  description: "Social media platform for sharing pictures."
   categories:
     - Network
   tags:
@@ -549,7 +549,7 @@ instapaper:
   name: Instapaper
   url: "https://www.instapaper.com/u"
   homepage: "https://www.instapaper.com/u"
-  description: Save pages and articles on the internet to view later.
+  description: "Save pages and articles on the internet to view later."
   categories:
     - Network
   tags:
@@ -559,7 +559,7 @@ jsfiddle:
   name: JSFiddle
   url: "https://jsfiddle.net/"
   homepage: "https://jsfiddle.net/"
-  description: Create and share "fiddles" made with web languages.
+  description: 'Create and share "fiddles" made with web languages.'
   categories:
     - Development
   tags:
@@ -568,7 +568,7 @@ jsitor:
   name: Jsitor
   url: https://jsitor.com
   homepage: https://jsitor.com
-  description: A tool for creating web code snippits.
+  description: "A tool for creating web code snippits."
   categories:
     - Development
   tags:
@@ -577,7 +577,7 @@ jspaint:
   name: JS Paint
   url: 'https://jspaint.app/'
   homepage: 'https://github.com/1j01/jspaint'
-  description: Recreation of MS Paint.
+  description: "Recreation of MS Paint."
   categories:
     - Graphics
   tags:
@@ -588,7 +588,7 @@ krunker:
   name: Krunker
   url: "https://krunker.io"
   homepage: "https://krunker.io"
-  description: 3D voxel first person shooter game.
+  description: "3D voxel first person shooter game."
   categories:
     - Game
   tags:
@@ -599,7 +599,7 @@ method-draw:
   name: Method Draw
   url: "https://editor.method.ac"
   homepage: "https://github.com/methodofaction/Method-Draw"
-  description: A simple and easy to use SVG editor.
+  description: "A simple and easy to use SVG editor."
   categories:
     - Graphics
   tags:
@@ -608,7 +608,7 @@ method-draw:
 # Microsoft
 messenger:
   name: "Messenger"
-  description: An instant messenger owned by Meta/Facebook.
+  description: "An instant messenger owned by Meta/Facebook."
   url: "https://www.messenger.com/login.php"
   homepage: "https://messenger.com"
   categories:
@@ -617,7 +617,7 @@ messenger:
     - Free
 microsoft-excel:
   name: Microsoft Excel Online
-  description: A spreadsheet program made by Microsoft as part of the Office suite.
+  description: "A spreadsheet program made by Microsoft as part of the Office suite."
   url: "https://www.office.com/launch/excel"
   homepage: "https://www.office.com/launch/excel"
   categories:
@@ -627,7 +627,7 @@ microsoft-excel:
     - Microsoft
 microsoft-forms:
   name: Microsoft Forms Online
-  description: An online survey creator made by Microsoft as part of the Office suite.
+  description: "An online survey creator made by Microsoft as part of the Office suite."
   url: "https://forms.office.com/"
   homepage: "https://forms.office.com/"
   categories:
@@ -637,7 +637,7 @@ microsoft-forms:
     - Microsoft
 microsoft-onedrive:
   name: Microsoft OneDrive Online
-  description: A file storage service made by Microsoft as part of the Office suite.
+  description: "A file storage service made by Microsoft as part of the Office suite."
   url: "https://onedrive.live.com/"
   homepage: "https://onedrive.live.com/"
   categories:
@@ -648,7 +648,7 @@ microsoft-onedrive:
     - Microsoft
 microsoft-onenote:
   name: Microsoft OneNote Online
-  description: A note taking app by Microsoft.
+  description: "A note taking app by Microsoft."
   url: "https://onedrive.live.com/"
   homepage: "https://onedrive.live.com/"
   categories:
@@ -658,7 +658,7 @@ microsoft-onenote:
     - Microsoft
 microsoft-powerpoint:
   name: Microsoft PowerPoint Online
-  description: A presentation program made by Microsoft as part of the Office suite.
+  description: "A presentation program made by Microsoft as part of the Office suite."
   url: "https://onedrive.live.com/"
   homepage: "https://onedrive.live.com/"
   categories:
@@ -669,7 +669,7 @@ microsoft-powerpoint:
     - Microsoft
 microsoft-sway:
   name: Microsoft Sway Online
-  description: Create visually striking newsletters, presentations, and documentation in minutes.
+  description: "Create visually striking newsletters, presentations, and documentation in minutes."
   url: "https://onedrive.live.com/"
   homepage: "https://onedrive.live.com/"
   categories:
@@ -680,7 +680,7 @@ microsoft-sway:
     - Microsoft
 microsoft-todo:
   name: Microsoft To-Do Online
-  description: A task management tool made by Microsoft.
+  description: "A task management tool made by Microsoft."
   url: "https://to-do.microsoft.com"
   homepage: "https://to-do.microsoft.com"
   categories:
@@ -691,7 +691,7 @@ microsoft-todo:
     - Microsoft
 microsoft-word:
   name: Microsoft Word Online
-  description: A word processor made by Microsoft as part of the Office suite.
+  description: "A word processor made by Microsoft as part of the Office suite."
   url: "https://www.office.com/launch/word"
   homepage: "https://www.office.com/launch/word"
   categories:
@@ -703,7 +703,7 @@ minecraft-classic:
   name: Minecraft Classic
   url: 'https://classic.minecraft.net/'
   homepage: 'https://classic.minecraft.net/'
-  description: A classic version of minecraft.
+  description: "A classic version of minecraft."
   categories:
     - Game
   tags:
@@ -723,7 +723,7 @@ netflix:
   name: Netflix
   url: 'https://netflix.com/'
   homepage: 'https://netflix.com/browse'
-  description: Movie and TV show streaming service
+  description: "Movie and TV show streaming service"
   categories:
     - AudioVideo
     - Video
@@ -734,7 +734,7 @@ nute:
   name: Nute
   url: 'https://nute.app/'
   homepage: 'https://nute.app/'
-  description: Note taking app
+  description: "Note taking app"
   categories:
     - Office
   tags:
@@ -744,7 +744,7 @@ odysee:
   name: Odysee
   url: "https://odysee.com"
   homepage: "https://github.com/OdyseeTeam/odysee-frontend"
-  description: A open source and decentralized platform for content creators.
+  description: "A open source and decentralized platform for content creators."
   categories:
     - Video
     - AudioVideo
@@ -755,7 +755,7 @@ openscrobbler:
   name: Open Scrobbler
   url: 'https://openscrobbler.com/'
   homepage: 'https://github.com/elamperti/OpenWebScrobbler'
-  description: A tool for manually scrobbling songs to Last.FM.
+  description: "A tool for manually scrobbling songs to Last.FM."
   categories:
     - Audio
     - AudioVideo
@@ -765,7 +765,7 @@ openscrobbler:
 #P
 paintz:
   name: PaintZ
-  description: A simple drawing program.
+  description: "A simple drawing program."
   url: "https://paintz.app"
   homepage: "https://github.com/ZMYaro/paintz"
   categories:
@@ -775,9 +775,9 @@ paintz:
     - OpenSource
 pandora:
   name: Pandora
-  description: A radio streaming service
-  url: https://www.pandora.com
-  homepage: https://www.pandora.com
+  description: "A radio streaming service"
+  url: "https://www.pandora.com"
+  homepage: "https://www.pandora.com"
   categories:
     - Audio
     - AudioVideo
@@ -785,7 +785,7 @@ pandora:
     - Freemium
 peacock:
   name: Peacock
-  description: Stream movies and TV shows.
+  description: "Stream movies and TV shows."
   url: "https://www.peacocktv.com/"
   homepage: "https://www.peacocktv.com/"
   categories:
@@ -798,7 +798,7 @@ pixelcraft:
   name: PixelCraft
   url: 'https://pixelcraft.web.app/'
   homepage: 'https://github.com/rgab1508/PixelCraft'
-  description: Pixel art editor.
+  description: "Pixel art editor."
   categories:
     - Graphics
   tags:
@@ -806,7 +806,7 @@ pixelcraft:
     - OpenSource
 pixlre:
   name: Pixlr E
-  description: A fully featured Photoshop alternative.
+  description: "A fully featured Photoshop alternative."
   url: "https://pixlr.com/e/"
   homepage: "https://pixlr.com"
   categories:
@@ -815,7 +815,7 @@ pixlre:
     - Freemium
 pixlrx:
   name: Pixlr X
-  description: A simple photo editor.
+  description: "A simple photo editor."
   url: "https://pixlr.com/x/"
   homepage: "https://pixlr.com"
   categories:
@@ -824,7 +824,7 @@ pixlrx:
     - Freemium
 photopea:
   name: Photopea
-  description: A free full featured alternative to Photoshop.
+  description: "A free full featured alternative to Photoshop."
   url: "https://www.photopea.com"
   homepage: "https://www.photopea.com"
   categories:
@@ -842,9 +842,9 @@ polarr:
     - Freemium
 primevideo:
   name: Amazon Prime Video
-  url: https://www.amazon.com/gp/video/storefront
-  homepage: https://www.amazon.com/gp/video/storefront
-  description: Watch unlimited Movies, TV Shows, Documentries, etc.
+  url: "https://www.amazon.com/gp/video/storefront"
+  homepage: "https://www.amazon.com/gp/video/storefront"
+  description: "Watch unlimited Movies, TV Shows, Documentries, etc."
   categories:
     - Video
     - AudioVideo
@@ -853,7 +853,7 @@ primevideo:
     - DRM
 protonmail:
   name: Protonmail
-  description: A privacy friendly, encrypted email service.
+  description: "A privacy friendly, encrypted email service."
   url: "https://mail.protonmail.com/inbox"
   homepage: "https://protonmail.com"
   categories:
@@ -863,7 +863,7 @@ protonmail:
 #Q
 quickdraw:
   name: Quick, Draw!
-  description: Can a neural network learn to recognize your doodling?
+  description: "Can a neural network learn to recognize your doodling?"
   url: "https://quickdraw.withgoogle.com"
   homepage: "https://quickdraw.withgoogle.com"
   categories:
@@ -876,7 +876,7 @@ replit:
   name: Replit
   url: 'https://replit.com/'
   homepage: 'https://replit.com/'
-  description: Online development platform
+  description: "Online development platform"
   categories:
     - Development
   tags:
@@ -886,7 +886,7 @@ soundcloud:
   name: Soundcloud
   url: "https://soundcloud.com"
   homepage: "https://soundcloud.com"
-  description: Upload, stream, and share music.
+  description: "Upload, stream, and share music."
   categories:
     - Audio
     - AudioVideo
@@ -894,8 +894,8 @@ soundcloud:
     - Freemium
 spotify:
   name: Spotify Web
-  url: https://open.spotify.com/
-  homepage: https://spotify.com
+  url: "https://open.spotify.com/"
+  homepage: "https://spotify.com"
   description: "A music streaming service."
   categories:
     - Audio
@@ -906,7 +906,7 @@ stackedit:
   name: StackEdit
   url: 'https://stackedit.io/'
   homepage: 'https://github.com/benweet/stackedit/'
-  description: Markdown editor
+  description: "Markdown editor"
   categories:
     - Development
   tags:
@@ -915,9 +915,9 @@ stackedit:
 #T
 tidal:
   name: Tidal
-  description: High quality music streaming service
-  url: https://listen.tidal.com
-  homepage: https://tidal.com
+  description: "High quality music streaming service"
+  url: "https://listen.tidal.com"
+  homepage: "https://tidal.com"
   categories:
     - Audio
     - AudioVideo
@@ -925,7 +925,7 @@ tidal:
     - Subscription
 tweetdeck:
   name: TweetDeck
-  description: A dashboard for managing tweets on Twitter.
+  description: "A dashboard for managing tweets on Twitter."
   url: 'https://tweetdeck.twitter.com/'
   homepage: 'https://tweetdeck.twitter.com/'
   categories:
@@ -936,7 +936,7 @@ twitter:
   name: Twitter
   url: 'https://twitter.com/'
   homepage: 'https://twitter.com/'
-  description: Social media platform
+  description: "Social media platform"
   categories:
     - Network
   tags:
@@ -948,7 +948,7 @@ wormhole:
   name: Wormhole
   url: 'https://wormhole.app/'
   homepage: 'https://wormhole.app/'
-  description: Send files with end-to-end encryption
+  description: "Send files with end-to-end encryption"
   categories:
     - Utility
   tags:
@@ -957,7 +957,7 @@ wormhole:
 #Y
 youtube-kids:
   name: YouTube Kids
-  description: A online video platform for Kids.
+  description: "A online video platform for Kids."
   url: "https://www.youtubekids.com/"
   homepage: "https://www.youtube.com/kids/"
   categories:
@@ -968,9 +968,9 @@ youtube-kids:
     - Google
 youtube-live:
   name: YouTube Live Dashboard
-  description: Mange your YouTube livestreams.
+  description: "Mange your YouTube livestreams."
   url: "https://www.youtube.com/livestreaming"
-  homepage: https://support.google.com/youtube/answer/2474026?hl=en
+  homepage: "https://support.google.com/youtube/answer/2474026?hl=en"
   categories:
     - Video
     - AudioVideo
@@ -981,7 +981,7 @@ youtube-music:
   name: YouTube Music
   url: "https://music.youtube.com/"
   homepage: "https://music.youtube.com/"
-  description: Stream songs and music videos.
+  description: "Stream songs and music videos."
   categories:
     - Audio
     - AudioVideo
@@ -989,7 +989,7 @@ youtube-music:
     - Freemium
 youtube-studio:
   name: YouTube Studio
-  description: Mange your YouTube channel.
+  description: "Manage your YouTube channel."
   url: "https://studio.youtube.com"
   homepage: "https://support.google.com/youtube/answer/7548152?hl=en"
   categories:
@@ -1000,7 +1000,7 @@ youtube-studio:
     - Google
 youtube-tv:
   name: YouTube TV
-  description: Stream your favorite TV channels and shows.
+  description: "Stream your favorite TV channels and shows."
   url: "https://tv.youtube.com/"
   homepage: "https://tv.youtube.com/"
   categories:
