@@ -9,6 +9,7 @@ amplol:
     - AudioVideo
   tags:
     - Free
+    - Featured
 apple-calendar:
   name: Apple Calendar
   url: "https://www.icloud.com/calendar/"
@@ -133,7 +134,7 @@ bandcamp:
   tags:
     - Freemium
 bingmaps:
-  name: bingmaps
+  name: Bing Maps
   url: "https://www.bing.com/maps"
   homepage: "https://www.bing.com/maps"
   description: "Microsoft's mapping service."
@@ -261,6 +262,7 @@ drawception:
     - Game
   tags:
     - Free
+    - Featured
 #E
 evernote:
   name: Evernote
@@ -583,6 +585,7 @@ jspaint:
   tags:
     - Free
     - OpenSource
+    - Featured
 #K
 krunker:
   name: Krunker
@@ -718,6 +721,7 @@ musish:
     - AudioVideo
   tags:
     - Free
+    - Featured
 #N
 netflix:
   name: Netflix
@@ -730,6 +734,16 @@ netflix:
   tags:
     - Subscription
     - DRM
+notion:
+  name: Notion
+  url: "https://www.notion.so/login"
+  homepage: "https://www.notion.so"
+  description: "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases."
+  categories:
+  	- Office
+  tags:
+    - Freemium
+    - Featured
 nute:
   name: Nute
   url: 'https://nute.app/'
@@ -831,6 +845,7 @@ photopea:
     - Graphics
   tags:
     - Freemium
+    - Featured
 polarr:
   name: Polarr
   description: "A photo editor."
