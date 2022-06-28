@@ -740,7 +740,7 @@ notion:
   homepage: "https://www.notion.so"
   description: "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases."
   categories:
-  	- Office
+    - Office
   tags:
     - Freemium
     - Featured
