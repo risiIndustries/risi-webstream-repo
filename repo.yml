@@ -376,8 +376,8 @@ google-duo:
     - Freemium
     - Google
 google-earth:
-  name: Google Drive
-  description: "Google's tool for online file storage and backup/synchronization"
+  name: Google Earth
+  description: "3D earth and mapping tool."
   url: "https://earth.google.com"
   homepage: "https://earth.google.com"
   categories:
