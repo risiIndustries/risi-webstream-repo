@@ -438,8 +438,8 @@ google-maps:
 google-photos:
   name: Google Photos
   description: "View photos synced to your Google Account."
-  url: "https://docs.google.com/presentation/u/0/"
-  homepage: "https://docs.google.com/presentation/u/0/"
+  url: "https://photos.google.com/login"
+  homepage: "https://photos.google.com/"
   categories:
     - Graphics
   tags:
