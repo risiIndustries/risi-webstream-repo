@@ -597,6 +597,17 @@ krunker:
   tags:
     - Freemium
 #L
+lasagnamail:
+  name: Lasagna Mail
+  url: "https://lasagna.email"
+  homepage: "https://github.com/TheBaconPug/lasagna.email"
+  description: "A easy to use temporary/disposable email service"
+  categories:
+    - Utility
+  tags:
+    - Free
+    - OpenSource
+    - Featured
 #M
 method-draw:
   name: Method Draw
